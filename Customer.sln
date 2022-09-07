@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer", "Customer\Customer.csproj", "{4B76B349-0177-4078-B626-57347A6CB7E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainDrivenDesign", "DomainDrivenDesign\DomainDrivenDesign.csproj", "{5F1A7CF2-A310-4770-94A7-1FF2DBC027B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charisma.library", "DomainDrivenDesign\Charisma.library.csproj", "{5F1A7CF2-A310-4770-94A7-1FF2DBC027B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

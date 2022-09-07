@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DomainDrivenDesign
 {
-    public class Customer
+    public class CustomerDomainModel
     {
         public int Id { get; set; }
         private string _firstName;
@@ -27,7 +27,7 @@ namespace DomainDrivenDesign
         }
         public string LastName { get; set; }
 
-        public Customer(int id, string firstName, string lastName)
+        public CustomerDomainModel(int id, string firstName, string lastName)
         {
             Id = id;
             FirstName = firstName;

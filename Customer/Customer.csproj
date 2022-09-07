@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DomainDrivenDesign\DomainDrivenDesign.csproj">
+    <ProjectReference Include="..\DomainDrivenDesign\Charisma.library.csproj">
       <Project>{5f1a7cf2-a310-4770-94a7-1ff2dbc027b4}</Project>
-      <Name>DomainDrivenDesign</Name>
+      <Name>Charisma.library</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

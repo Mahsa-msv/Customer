@@ -11,7 +11,7 @@ namespace Customer
     {
         static void Main(string[] args)
         {
-            DomainDrivenDesign.Customer customer = new DomainDrivenDesign.Customer(1, "Mahsa", "Mousavi");
+            CustomerDomainModel customer = new CustomerDomainModel(1, "Mahsa", "Mousavi");
             Console.WriteLine($"Hello customer {customer}");
         }
     }
